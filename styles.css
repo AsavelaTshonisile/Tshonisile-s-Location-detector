@@ -1,0 +1,34 @@
+/*Google Fonts Winky Rough*/
+@import url('https://fonts.googleapis.com/css2?family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Winky Rough', cursive;
+}
+body{
+
+    background: #cec2c2;
+}
+ h1{
+    font-size: 6rem;
+    color: #fff;
+    
+    text-align: center;
+}
+.btnTracker{
+    text-align: center;
+    margin-top: 250px;
+
+}
+.btnTracker button{
+    font-size: 50px;
+    padding: 10px 20px;
+    background: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    font-weight: 500;
+    color: #dcbdbd;
+}
